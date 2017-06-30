@@ -1,0 +1,6 @@
+use persondb;
+CREATE TABLE person (
+id INT(6)  AUTO_INCREMENT PRIMARY KEY,
+nom VARCHAR(30) NOT NULL,
+prenom VARCHAR(30) NOT NULL
+)

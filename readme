@@ -1,0 +1,19 @@
+Application simple Crud : Gestion contact
+
+- Techno Backend :
+ * java 8
+ * Spring 4.1
+ * Hibernate 4.2
+ * Mysql
+ * Rest
+ * Jersey 1.8
+ * Log4J
+ * Architecture MVC
+
+- Techno FrontEnd :
+  * AngularJs 1.5
+  * CSS/Bootstrap 3.3
+
+d'autre outils :
+maven
+Git
